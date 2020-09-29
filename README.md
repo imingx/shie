@@ -1,4 +1,4 @@
-## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen) [![LICENSE](https://img.shields.io/github/license/gmm-z/shie)](https://github.com/gmm-z/shie/blob/master/LICENSE) 
+## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen) [![LICENSE](https://img.shields.io/github/license/gmm-z/shie)](https://github.com/gmm-z/shie/blob/master/LICENSE) [![discord](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/DwNzdGA) 
 
 ### 一、我们的历程
 
