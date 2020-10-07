@@ -1,6 +1,6 @@
-## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen)![date](https://img.shields.io/badge/%E6%97%A5%E6%9C%9F-2020--07--16~2020--10--10-ff69b4)[![LICENSE](https://img.shields.io/github/license/gmm-z/shie)](https://github.com/gmm-z/shie/blob/master/LICENSE) [![discord](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/DwNzdGA) 
+## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen) [![LICENSE](https://img.shields.io/github/license/gmm-z/shie)](https://github.com/gmm-z/shie/blob/master/LICENSE) [![discord](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/DwNzdGA) 
 
-### 一、我们的历程
+### 一、我们的历程 ![date](https://img.shields.io/badge/%E6%97%A5%E6%9C%9F-2020--07--16~2020--10--10-important)
 
 1. [2020士谔志士实践队初集结](https://mp.weixin.qq.com/s/GNQUO6Mu3w7LjC2r3Sys_w)
 2. [“探寻士谔精神”采访实录](https://mp.weixin.qq.com/s/N-KxlNJ0YZ0qTRjcdV-xiA)
@@ -10,7 +10,7 @@
 
 ### 二、我们的分享
 
-1. [宣讲ppt](https://github.com/gmm-z/shie/blob/master/%E5%AE%A3%E8%AE%B2final.pptx)
+1. 宣讲[ppt](https://github.com/gmm-z/shie/blob/master/%E5%AE%A3%E8%AE%B2final.pptx) or [pdf][1]
 2. [宣讲讲稿](https://github.com/gmm-z/shie/blob/master/%E8%AE%B2%E7%A8%BFfinal.md)
 
 ### 三、注意事项
@@ -20,3 +20,5 @@
 1. 更换网络环境，并刷新页面。
 2. 安装[Astar VPN](https://www.chajianmi.com/topic/jajilbjjinjmgcibalaakngmkilboobh)插件，在插件开启的情况下刷新网页。
 3. 修改`hosts`文件，这里有个[链接](https://blog.csdn.net/qq_38232598/article/details/91346392)🌈。
+
+[1]: 
