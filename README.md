@@ -15,7 +15,7 @@
 
 | [宣讲讲稿](https://github.com/gmm-z/shie/blob/master/%E8%AE%B2%E7%A8%BFfinal.md) | [宣讲ppt](https://github.com/gmm-z/shie/blob/master/%E5%AE%A3%E8%AE%B2final.pptx) |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
-|                                                              | <img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gjh3g5vdmnj30me0bwdv3.jpg” > |
+|                                                              | <a herf="https://github.com/gmm-z/shie/blob/master/%E5%AE%A3%E8%AE%B2final.pptx"><img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1gjh3g5vdmnj30me0bwdv3.jpg" width="100%"></a> |
 
 ​	
 
