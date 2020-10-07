@@ -10,8 +10,8 @@
 
 ### 二、我们的分享
 
-1. 宣讲[ppt](https://github.com/gmm-z/shie/blob/master/%E5%AE%A3%E8%AE%B2final.pptx) or [pdf][1]
-2. [宣讲讲稿](https://github.com/gmm-z/shie/blob/master/%E8%AE%B2%E7%A8%BFfinal.md)
+1. [宣讲ppt](https://github.com/gmm-z/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2.pptx)
+2. [宣讲讲稿](https://github.com/gmm-z/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2%E8%AE%B2%E7%A8%BF.md)
 
 ### 三、注意事项
 
@@ -20,5 +20,3 @@
 1. 更换网络环境，并刷新页面。
 2. 安装[Astar VPN](https://www.chajianmi.com/topic/jajilbjjinjmgcibalaakngmkilboobh)插件，在插件开启的情况下刷新网页。
 3. 修改`hosts`文件，这里有个[链接](https://blog.csdn.net/qq_38232598/article/details/91346392)🌈。
-
-[1]: 
