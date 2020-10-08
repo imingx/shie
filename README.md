@@ -5,7 +5,7 @@
 1. [2020士谔志士实践队初集结](https://mp.weixin.qq.com/s/GNQUO6Mu3w7LjC2r3Sys_w)
 2. [“探寻士谔精神”采访实录](https://mp.weixin.qq.com/s/N-KxlNJ0YZ0qTRjcdV-xiA)
 3. [实践成果回顾之宣传册制作](https://mp.weixin.qq.com/s/gENXoXgllYabjjfprGKJXg)
-4. 实践成果回顾之宣讲(to be continued)
+4. [实践成果回顾之宣讲](https://mp.weixin.qq.com/s/HIk5Rsj4SVufHeZg1NtGtA)
 
 
 ### 二、我们的分享
