@@ -19,4 +19,4 @@
 
 1. 更换网络环境，并刷新页面。
 2. 安装[Astar VPN](https://www.chajianmi.com/topic/jajilbjjinjmgcibalaakngmkilboobh)插件，在插件开启的情况下刷新网页。
-3. 修改`hosts`文件，这里有个[链接](https://blog.csdn.net/qq_38232598/article/details/91346392)🌈。
+3. 修改`hosts`文件，这里有个[链接](https://blog.csdn.net/qq_38232598/article/details/91346392)。
