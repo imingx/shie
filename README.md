@@ -1,4 +1,4 @@
-## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen) [![LICENSE](https://img.shields.io/github/license/gmm-z/shie)](https://github.com/gmm-z/shie/blob/master/LICENSE) [![discord](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/DwNzdGA) 
+## 士谔志士实践队 ![主题](https://img.shields.io/badge/%E4%B8%BB%E9%A2%98-%E8%BF%BD%E5%BF%86%E6%9E%97%E8%80%81%E6%83%85%E6%80%80%EF%BC%8C%E4%BC%A0%E6%89%BF%E5%A3%AB%E8%B0%94%E7%B2%BE%E7%A5%9E-brightgreen) [![LICENSE](https://img.shields.io/github/license/imingx/shie)](https://github.com/imingx/shie/blob/master/LICENSE) [![discord](https://img.shields.io/badge/chat-on%20discord-7289da)](https://discord.gg/DwNzdGA) 
 
 ### 一、我们的历程 ![date](https://img.shields.io/badge/%E6%97%A5%E6%9C%9F-2020--07--16~2020--10--10-important)
 
@@ -10,8 +10,8 @@
 
 ### 二、我们的分享
 
-1. [宣讲ppt](https://github.com/gmm-z/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2.pptx)
-2. [宣讲讲稿](https://github.com/gmm-z/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2%E8%AE%B2%E7%A8%BF.md)
+1. [宣讲ppt](https://github.com/imingx/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2.pptx)
+2. [宣讲讲稿](https://github.com/imingx/shie/blob/master/SOURCE/%E5%A3%AB%E8%B0%94%E5%BF%97%E5%A3%AB%E5%AE%9E%E8%B7%B5%E9%98%9F%E5%AE%A3%E8%AE%B2%E8%AE%B2%E7%A8%BF.md)
 
 ### 三、注意事项
 
